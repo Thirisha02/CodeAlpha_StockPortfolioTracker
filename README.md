@@ -32,4 +32,4 @@ Total Investment = $1110
 
 ## Screenshot
 
-![Stock Portfolio Tracker](stock1.png)
+![Stock Portfolio Tracker](portfolio.png)
